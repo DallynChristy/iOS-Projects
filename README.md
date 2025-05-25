@@ -1,1 +1,2 @@
-# I Am Rich\nA simple iOS app built with SwiftUI for my learning journey.
+# I Am Rich
+A simple iOS app built with SwiftUI for my learning journey.
